@@ -13,7 +13,7 @@ A beautiful, interactive web application that analyzes movie review sentiment us
 
 ## 🚀 Live Demo
 
-[View Live Demo](http://localhost:5173/)
+[View Live Demo]([http://localhost:5173/](https://sentiment-analysis-on-movies-review.netlify.app/)
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+4. Open  [http://localhost:5173](https://sentiment-analysis-on-movies-review.netlify.app/) in your browser.
 
 ## 🏗️ Project Structure
 
@@ -148,3 +148,4 @@ The current implementation uses a keyword-based approach for demonstration. In a
 
 
 **Built with ❤️ for movie lovers and AI enthusiasts** 
+
