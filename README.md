@@ -13,7 +13,7 @@ A beautiful, interactive web application that analyzes movie review sentiment us
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://movie-sentiment-analyzer-demo.netlify.app)
+[View Live Demo](http://localhost:5173/)
 
 ## 🛠️ Tech Stack
 
@@ -136,9 +136,6 @@ The current implementation uses a keyword-based approach for demonstration. In a
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -148,5 +145,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Lucide for the beautiful icons
 
 ---
+
 
 **Built with ❤️ for movie lovers and AI enthusiasts** 
